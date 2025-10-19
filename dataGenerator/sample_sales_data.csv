@@ -1,0 +1,864 @@
+Date,Product,Region,SalesRep,Quantity,UnitPrice,TotalSales
+2024-01-01,Tablet,Europe,Carol Davis,20,1692.06,33841.2
+2024-01-28,Headphones,North America,David Wilson,18,1567.04,28206.72
+2024-01-08,Headphones,South America,Alice Johnson,7,1887.27,13210.89
+2024-01-19,Keyboard,Asia,Eva Brown,18,1743.78,31388.04
+2024-01-23,Tablet,South America,Eva Brown,4,737.73,2950.92
+2024-01-01,Keyboard,Asia,Bob Smith,2,83.14,166.28
+2024-01-17,Mouse,Europe,Alice Johnson,14,1244.84,17427.76
+2024-01-25,Laptop,North America,Alice Johnson,12,768.53,9222.36
+2024-01-14,Monitor,South America,David Wilson,18,1437.59,25876.62
+2024-01-16,Tablet,North America,David Wilson,18,1617.51,29115.18
+2024-01-18,Laptop,Asia,Eva Brown,10,1613.13,16131.3
+2024-01-15,Keyboard,Asia,Eva Brown,12,257.52,3090.24
+2024-01-27,Laptop,Asia,Carol Davis,20,1007.4,20148.0
+2024-01-12,Headphones,Asia,David Wilson,11,1336.36,14699.96
+2024-01-01,Tablet,Africa,Eva Brown,8,1729.37,13834.96
+2024-01-03,Headphones,South America,Eva Brown,12,1393.71,16724.52
+2024-01-01,Laptop,South America,David Wilson,12,1054.02,12648.24
+2024-01-18,Phone,South America,David Wilson,8,235.96,1887.68
+2024-01-07,Monitor,South America,Bob Smith,18,139.95,2519.1
+2024-01-27,Monitor,Africa,Carol Davis,10,1845.16,18451.6
+2024-01-02,Phone,North America,Bob Smith,14,1460.16,20442.24
+2024-01-15,Keyboard,Europe,Carol Davis,17,505.06,8586.02
+2024-01-24,Laptop,Africa,Eva Brown,20,415.2,8304.0
+2024-01-15,Mouse,Europe,David Wilson,3,1296.87,3890.61
+2024-01-23,Monitor,Europe,Carol Davis,19,796.26,15128.94
+2024-01-23,Monitor,Asia,Bob Smith,3,1834.49,5503.47
+2024-01-26,Keyboard,North America,Alice Johnson,1,311.64,311.64
+2024-01-01,Phone,South America,Eva Brown,18,85.88,1545.84
+2024-01-17,Headphones,Africa,Eva Brown,12,296.61,3559.32
+2024-01-05,Headphones,North America,Alice Johnson,3,484.3,1452.9
+2024-01-25,Tablet,South America,Bob Smith,11,92.63,1018.93
+2024-01-23,Mouse,South America,Alice Johnson,17,1916.45,32579.65
+2024-01-25,Phone,Asia,Alice Johnson,20,1355.57,27111.4
+2024-01-17,Laptop,South America,Bob Smith,10,52.52,525.2
+2024-01-28,Tablet,Africa,Eva Brown,12,467.39,5608.68
+2024-01-18,Monitor,Europe,Bob Smith,20,580.26,11605.2
+2024-01-21,Phone,Europe,Carol Davis,4,681.54,2726.16
+2024-01-10,Mouse,Africa,David Wilson,8,878.46,7027.68
+2024-01-24,Tablet,Europe,David Wilson,12,1642.17,19706.04
+2024-01-04,Mouse,Europe,David Wilson,4,793.53,3174.12
+2024-01-01,Headphones,Asia,David Wilson,6,227.74,1366.44
+2024-01-12,Keyboard,South America,Bob Smith,2,427.31,854.62
+2024-01-24,Keyboard,Asia,Bob Smith,16,272.0,4352.0
+2024-01-26,Headphones,South America,Carol Davis,14,888.83,12443.62
+2024-01-09,Headphones,Asia,David Wilson,12,1885.99,22631.88
+2024-01-22,Mouse,Asia,Eva Brown,20,1187.59,23751.8
+2024-01-27,Tablet,South America,Eva Brown,14,1144.61,16024.54
+2024-01-25,Phone,South America,Carol Davis,4,754.66,3018.64
+2024-01-15,Keyboard,Europe,Eva Brown,6,1613.45,9680.7
+2024-01-16,Mouse,South America,Bob Smith,1,239.67,239.67
+2024-01-22,Keyboard,North America,Carol Davis,1,58.19,58.19
+2024-02-07,Tablet,South America,Bob Smith,1,1920.47,1920.47
+2024-02-03,Phone,Europe,Carol Davis,19,1643.91,31234.29
+2024-02-23,Mouse,Asia,David Wilson,19,1764.87,33532.53
+2024-02-24,Laptop,North America,Bob Smith,8,1567.01,12536.08
+2024-02-08,Keyboard,Africa,David Wilson,6,483.79,2902.74
+2024-02-12,Laptop,Africa,David Wilson,16,1198.39,19174.24
+2024-02-15,Tablet,South America,Carol Davis,15,95.31,1429.65
+2024-02-04,Monitor,Asia,Carol Davis,8,1781.17,14249.36
+2024-02-20,Phone,South America,Alice Johnson,19,144.52,2745.88
+2024-02-12,Mouse,Asia,Carol Davis,16,906.56,14504.96
+2024-02-20,Monitor,Africa,Eva Brown,17,1524.87,25922.79
+2024-02-12,Monitor,Asia,Eva Brown,20,958.2,19164.0
+2024-02-21,Monitor,Asia,Bob Smith,20,307.78,6155.6
+2024-02-28,Headphones,South America,Bob Smith,3,1263.73,3791.19
+2024-02-18,Monitor,Asia,Eva Brown,9,1913.8,17224.2
+2024-02-02,Tablet,Europe,Alice Johnson,16,1804.52,28872.32
+2024-02-09,Tablet,South America,Eva Brown,19,1078.89,20498.91
+2024-02-16,Tablet,South America,David Wilson,17,1930.67,32821.39
+2024-02-27,Phone,Europe,Carol Davis,15,1053.75,15806.25
+2024-02-07,Tablet,Asia,Carol Davis,3,1897.19,5691.57
+2024-02-08,Headphones,North America,Carol Davis,1,1409.29,1409.29
+2024-02-09,Laptop,Europe,Eva Brown,17,479.12,8145.04
+2024-02-18,Keyboard,Asia,David Wilson,16,1597.74,25563.84
+2024-02-20,Laptop,South America,Bob Smith,10,1256.77,12567.7
+2024-02-14,Monitor,North America,Carol Davis,19,1959.84,37236.96
+2024-02-05,Mouse,South America,Alice Johnson,15,737.97,11069.55
+2024-02-06,Mouse,North America,Carol Davis,2,224.04,448.08
+2024-02-02,Headphones,South America,Carol Davis,6,466.59,2799.54
+2024-02-27,Keyboard,Africa,Carol Davis,8,1114.95,8919.6
+2024-02-06,Headphones,South America,David Wilson,16,302.17,4834.72
+2024-02-19,Mouse,North America,Carol Davis,10,1003.43,10034.3
+2024-02-16,Laptop,South America,Bob Smith,9,513.79,4624.11
+2024-02-13,Monitor,Africa,Alice Johnson,4,776.56,3106.24
+2024-02-16,Headphones,South America,Carol Davis,19,1826.15,34696.85
+2024-02-14,Keyboard,South America,Bob Smith,19,472.45,8976.55
+2024-02-02,Headphones,Africa,Alice Johnson,8,877.18,7017.44
+2024-02-11,Monitor,Asia,Carol Davis,5,1796.7,8983.5
+2024-02-11,Tablet,Europe,Carol Davis,13,1935.08,25156.04
+2024-02-18,Phone,South America,Alice Johnson,16,840.31,13444.96
+2024-02-27,Tablet,North America,Eva Brown,5,674.66,3373.3
+2024-02-25,Tablet,South America,David Wilson,9,498.14,4483.26
+2024-02-11,Phone,South America,Eva Brown,9,1017.66,9158.94
+2024-02-27,Mouse,Africa,Carol Davis,15,1551.75,23276.25
+2024-02-12,Headphones,Europe,Alice Johnson,14,1568.71,21961.94
+2024-02-26,Phone,North America,Carol Davis,19,1260.57,23950.83
+2024-02-11,Tablet,North America,Bob Smith,12,1210.2,14522.4
+2024-02-05,Monitor,Africa,David Wilson,16,1601.31,25620.96
+2024-02-05,Tablet,Europe,Eva Brown,19,192.17,3651.23
+2024-02-26,Tablet,Europe,Carol Davis,6,670.94,4025.64
+2024-02-26,Phone,Africa,Carol Davis,4,410.0,1640.0
+2024-02-12,Headphones,North America,Carol Davis,10,1489.05,14890.5
+2024-02-25,Headphones,Africa,David Wilson,2,737.72,1475.44
+2024-02-28,Tablet,Europe,Alice Johnson,10,1371.4,13714.0
+2024-02-07,Mouse,North America,Bob Smith,2,91.5,183.0
+2024-02-02,Monitor,Europe,Carol Davis,13,1074.62,13970.06
+2024-02-15,Tablet,Europe,David Wilson,12,250.55,3006.6
+2024-02-25,Mouse,Asia,Eva Brown,19,1151.17,21872.23
+2024-02-22,Phone,South America,Carol Davis,10,1299.65,12996.5
+2024-02-05,Phone,North America,Alice Johnson,2,402.11,804.22
+2024-02-21,Monitor,North America,Carol Davis,10,1238.75,12387.5
+2024-02-18,Laptop,Europe,Carol Davis,6,1226.07,7356.42
+2024-02-24,Phone,South America,Eva Brown,16,276.95,4431.2
+2024-02-23,Monitor,North America,Bob Smith,15,336.61,5049.15
+2024-02-22,Keyboard,South America,David Wilson,15,885.11,13276.65
+2024-02-23,Monitor,Africa,Eva Brown,6,652.47,3914.82
+2024-02-03,Phone,Asia,Eva Brown,14,1455.96,20383.44
+2024-02-20,Phone,North America,David Wilson,19,1893.33,35973.27
+2024-02-08,Phone,South America,David Wilson,7,131.78,922.46
+2024-02-18,Headphones,North America,Bob Smith,18,401.91,7234.38
+2024-02-25,Keyboard,Asia,David Wilson,1,1135.72,1135.72
+2024-02-11,Monitor,Asia,Carol Davis,1,1381.28,1381.28
+2024-02-27,Phone,North America,Bob Smith,1,520.48,520.48
+2024-02-16,Phone,Europe,Alice Johnson,14,261.39,3659.46
+2024-02-12,Phone,Africa,David Wilson,5,1741.64,8708.2
+2024-02-28,Mouse,Africa,Bob Smith,5,370.53,1852.65
+2024-02-15,Monitor,Europe,Carol Davis,6,1538.66,9231.96
+2024-02-26,Mouse,South America,Bob Smith,8,554.3,4434.4
+2024-02-21,Monitor,Europe,Bob Smith,1,1460.25,1460.25
+2024-02-24,Keyboard,North America,Eva Brown,19,368.62,7003.78
+2024-02-11,Laptop,North America,David Wilson,15,747.29,11209.35
+2024-02-04,Laptop,Africa,Alice Johnson,8,1201.71,9613.68
+2024-02-14,Laptop,Africa,Eva Brown,5,806.28,4031.4
+2024-02-03,Monitor,Africa,David Wilson,13,1918.67,24942.71
+2024-02-06,Laptop,Africa,Alice Johnson,19,522.11,9920.09
+2024-02-15,Monitor,South America,Alice Johnson,16,232.27,3716.32
+2024-02-25,Laptop,South America,Bob Smith,4,484.35,1937.4
+2024-02-07,Mouse,North America,Carol Davis,12,1577.31,18927.72
+2024-02-11,Keyboard,Asia,David Wilson,15,248.95,3734.25
+2024-02-15,Headphones,Africa,David Wilson,6,724.32,4345.92
+2024-02-21,Laptop,North America,Bob Smith,19,546.05,10374.95
+2024-02-25,Keyboard,South America,David Wilson,19,847.2,16096.8
+2024-02-04,Mouse,Asia,Carol Davis,10,428.11,4281.1
+2024-02-24,Phone,Asia,Bob Smith,13,1346.9,17509.7
+2024-02-11,Monitor,Europe,Carol Davis,2,1736.63,3473.26
+2024-02-23,Keyboard,North America,David Wilson,11,1370.59,15076.49
+2024-03-27,Monitor,Asia,Alice Johnson,2,994.36,1988.72
+2024-03-06,Tablet,Asia,Alice Johnson,10,1967.92,19679.2
+2024-03-06,Tablet,South America,Alice Johnson,5,1729.67,8648.35
+2024-03-19,Laptop,Africa,Eva Brown,10,1283.59,12835.9
+2024-03-06,Keyboard,North America,Alice Johnson,7,1680.87,11766.09
+2024-03-04,Headphones,Asia,David Wilson,1,783.49,783.49
+2024-03-07,Keyboard,Europe,Carol Davis,5,609.79,3048.95
+2024-03-23,Phone,North America,Carol Davis,6,1092.23,6553.38
+2024-03-16,Monitor,Europe,Eva Brown,15,1640.95,24614.25
+2024-03-03,Monitor,South America,Eva Brown,10,1206.03,12060.3
+2024-03-08,Keyboard,North America,Bob Smith,20,277.25,5545.0
+2024-03-23,Mouse,Africa,Carol Davis,20,279.88,5597.6
+2024-03-13,Mouse,Europe,Carol Davis,2,920.66,1841.32
+2024-03-05,Mouse,Asia,Carol Davis,13,90.36,1174.68
+2024-03-28,Monitor,Europe,Alice Johnson,9,1355.17,12196.53
+2024-03-19,Headphones,Africa,Bob Smith,4,1070.59,4282.36
+2024-03-27,Headphones,Africa,David Wilson,11,132.14,1453.54
+2024-03-25,Keyboard,Asia,David Wilson,18,1579.05,28422.9
+2024-03-28,Keyboard,Europe,Alice Johnson,14,558.12,7813.68
+2024-03-20,Headphones,Africa,Carol Davis,14,544.85,7627.9
+2024-03-22,Headphones,North America,Eva Brown,4,121.2,484.8
+2024-03-05,Mouse,North America,Eva Brown,2,1606.81,3213.62
+2024-03-07,Mouse,Asia,David Wilson,18,713.22,12837.96
+2024-03-03,Mouse,Asia,Bob Smith,14,1518.39,21257.46
+2024-03-23,Monitor,North America,Carol Davis,11,1803.62,19839.82
+2024-03-27,Laptop,South America,Eva Brown,2,631.77,1263.54
+2024-03-09,Mouse,South America,Carol Davis,1,1975.24,1975.24
+2024-03-17,Phone,Europe,Bob Smith,18,591.52,10647.36
+2024-03-05,Keyboard,Africa,David Wilson,8,1204.73,9637.84
+2024-03-15,Laptop,Africa,Alice Johnson,11,919.19,10111.09
+2024-03-02,Keyboard,Africa,Carol Davis,7,1791.38,12539.66
+2024-03-05,Mouse,Asia,Alice Johnson,2,1167.18,2334.36
+2024-03-01,Headphones,Asia,Alice Johnson,10,1592.74,15927.4
+2024-03-19,Headphones,Africa,David Wilson,20,1151.91,23038.2
+2024-03-23,Phone,Asia,Alice Johnson,2,689.91,1379.82
+2024-03-10,Phone,Asia,Bob Smith,2,1748.1,3496.2
+2024-03-06,Mouse,South America,David Wilson,3,1649.18,4947.54
+2024-03-10,Laptop,Asia,Carol Davis,19,427.39,8120.41
+2024-03-26,Headphones,South America,Carol Davis,4,168.95,675.8
+2024-03-02,Tablet,North America,Alice Johnson,17,1237.3,21034.1
+2024-03-03,Tablet,South America,Eva Brown,13,1887.82,24541.66
+2024-03-14,Keyboard,South America,Carol Davis,17,543.88,9245.96
+2024-03-14,Monitor,South America,Bob Smith,8,169.63,1357.04
+2024-03-17,Keyboard,South America,Eva Brown,12,598.26,7179.12
+2024-03-04,Mouse,Asia,Alice Johnson,16,486.51,7784.16
+2024-03-15,Mouse,Europe,Carol Davis,18,162.03,2916.54
+2024-03-27,Headphones,North America,Carol Davis,1,1804.09,1804.09
+2024-03-23,Monitor,North America,Carol Davis,19,111.87,2125.53
+2024-03-27,Monitor,Asia,Eva Brown,11,107.8,1185.8
+2024-03-25,Keyboard,North America,Eva Brown,4,947.89,3791.56
+2024-03-21,Laptop,Africa,David Wilson,10,1285.93,12859.3
+2024-03-13,Tablet,South America,Alice Johnson,20,1440.22,28804.4
+2024-03-05,Keyboard,South America,Carol Davis,12,722.91,8674.92
+2024-03-14,Phone,Africa,Carol Davis,4,1127.15,4508.6
+2024-03-25,Laptop,Asia,Carol Davis,6,575.85,3455.1
+2024-03-22,Laptop,Africa,Carol Davis,7,711.16,4978.12
+2024-03-23,Phone,Europe,Alice Johnson,18,1047.68,18858.24
+2024-03-27,Phone,North America,Eva Brown,13,1676.28,21791.64
+2024-03-01,Mouse,Europe,David Wilson,10,496.78,4967.8
+2024-03-23,Phone,South America,Alice Johnson,15,1044.56,15668.4
+2024-03-27,Laptop,South America,David Wilson,20,976.06,19521.2
+2024-03-28,Laptop,South America,Eva Brown,20,376.72,7534.4
+2024-03-05,Monitor,North America,David Wilson,7,808.25,5657.75
+2024-03-21,Headphones,Europe,Alice Johnson,7,384.78,2693.46
+2024-03-10,Tablet,Europe,Alice Johnson,9,1904.26,17138.34
+2024-03-08,Headphones,Asia,Bob Smith,16,399.65,6394.4
+2024-03-10,Headphones,Europe,Bob Smith,9,485.22,4366.98
+2024-03-26,Keyboard,Europe,Eva Brown,1,1834.16,1834.16
+2024-03-12,Headphones,Africa,Alice Johnson,1,1738.18,1738.18
+2024-03-19,Keyboard,Asia,Bob Smith,19,824.34,15662.46
+2024-03-18,Keyboard,North America,Alice Johnson,17,1177.57,20018.69
+2024-03-10,Keyboard,Europe,Eva Brown,6,271.23,1627.38
+2024-03-19,Keyboard,Africa,David Wilson,9,807.54,7267.86
+2024-03-20,Mouse,South America,Alice Johnson,8,677.09,5416.72
+2024-03-14,Keyboard,Europe,Eva Brown,2,1293.95,2587.9
+2024-03-09,Mouse,Asia,Alice Johnson,1,394.9,394.9
+2024-03-28,Headphones,Asia,Alice Johnson,12,762.61,9151.32
+2024-03-04,Mouse,South America,David Wilson,13,868.16,11286.08
+2024-03-20,Mouse,Europe,Carol Davis,17,301.27,5121.59
+2024-03-24,Keyboard,South America,Carol Davis,8,166.54,1332.32
+2024-03-12,Phone,Africa,Alice Johnson,10,489.87,4898.7
+2024-03-12,Laptop,Africa,Carol Davis,2,984.42,1968.84
+2024-03-12,Phone,Africa,Carol Davis,6,750.34,4502.04
+2024-03-07,Tablet,South America,Bob Smith,1,1117.23,1117.23
+2024-03-18,Laptop,Europe,Alice Johnson,13,1891.1,24584.3
+2024-03-18,Phone,Asia,Alice Johnson,2,1907.45,3814.9
+2024-03-08,Monitor,Africa,Alice Johnson,16,1551.16,24818.56
+2024-03-09,Tablet,Africa,Carol Davis,15,1775.03,26625.45
+2024-03-07,Phone,North America,Eva Brown,19,242.8,4613.2
+2024-03-01,Headphones,Asia,Alice Johnson,2,1102.6,2205.2
+2024-03-13,Headphones,South America,Alice Johnson,14,344.97,4829.58
+2024-03-07,Phone,Europe,David Wilson,17,1754.99,29834.83
+2024-03-05,Mouse,Africa,Bob Smith,19,1963.35,37303.65
+2024-03-15,Headphones,South America,Alice Johnson,7,484.52,3391.64
+2024-03-04,Mouse,Asia,Bob Smith,1,1206.41,1206.41
+2024-03-26,Keyboard,Africa,Bob Smith,6,419.18,2515.08
+2024-03-09,Laptop,Asia,Alice Johnson,18,879.83,15836.94
+2024-03-21,Mouse,Asia,Carol Davis,20,644.32,12886.4
+2024-04-05,Mouse,Europe,Carol Davis,1,953.29,953.29
+2024-04-24,Keyboard,South America,Carol Davis,1,1776.95,1776.95
+2024-04-15,Monitor,Asia,Eva Brown,6,772.12,4632.72
+2024-04-04,Laptop,Asia,Carol Davis,1,1692.18,1692.18
+2024-04-23,Headphones,Europe,Carol Davis,5,1941.06,9705.3
+2024-04-25,Tablet,Asia,Alice Johnson,12,1065.56,12786.72
+2024-04-14,Mouse,Europe,Bob Smith,20,880.89,17617.8
+2024-04-06,Phone,North America,David Wilson,20,790.57,15811.4
+2024-04-09,Headphones,South America,Bob Smith,4,1325.71,5302.84
+2024-04-20,Tablet,Asia,Alice Johnson,19,594.22,11290.18
+2024-04-24,Headphones,Europe,Bob Smith,5,794.36,3971.8
+2024-04-08,Keyboard,Africa,Bob Smith,4,1687.21,6748.84
+2024-04-07,Laptop,Africa,Carol Davis,1,901.38,901.38
+2024-04-19,Laptop,Europe,Eva Brown,11,1334.31,14677.41
+2024-04-08,Keyboard,Asia,Carol Davis,7,1183.77,8286.39
+2024-04-21,Headphones,North America,Carol Davis,4,1706.73,6826.92
+2024-04-01,Tablet,South America,Bob Smith,13,1583.25,20582.25
+2024-04-08,Phone,North America,David Wilson,12,424.47,5093.64
+2024-04-13,Monitor,Europe,Alice Johnson,17,1955.7,33246.9
+2024-04-19,Keyboard,North America,Alice Johnson,6,1970.25,11821.5
+2024-04-07,Monitor,Africa,Eva Brown,7,786.17,5503.19
+2024-04-19,Tablet,Europe,Carol Davis,7,149.39,1045.73
+2024-04-28,Laptop,Asia,Eva Brown,12,65.66,787.92
+2024-04-03,Laptop,Europe,Carol Davis,2,1083.09,2166.18
+2024-04-08,Tablet,Europe,Eva Brown,8,1060.47,8483.76
+2024-04-16,Tablet,North America,Eva Brown,19,1403.62,26668.78
+2024-04-06,Laptop,South America,Bob Smith,16,1278.67,20458.72
+2024-04-09,Keyboard,Europe,Carol Davis,20,1385.17,27703.4
+2024-04-19,Headphones,Europe,Eva Brown,14,1289.02,18046.28
+2024-04-16,Headphones,Asia,Eva Brown,2,481.32,962.64
+2024-04-16,Laptop,Africa,Carol Davis,18,488.23,8788.14
+2024-04-28,Headphones,Asia,Alice Johnson,3,1881.09,5643.27
+2024-04-28,Phone,Asia,Carol Davis,17,622.67,10585.39
+2024-04-10,Keyboard,Asia,Carol Davis,2,1187.56,2375.12
+2024-04-16,Keyboard,South America,Carol Davis,10,230.34,2303.4
+2024-04-06,Laptop,Europe,Eva Brown,8,822.85,6582.8
+2024-04-25,Keyboard,Asia,Carol Davis,12,659.33,7911.96
+2024-04-11,Laptop,Asia,Alice Johnson,12,1453.11,17437.32
+2024-04-01,Monitor,North America,Bob Smith,18,1921.54,34587.72
+2024-04-26,Monitor,Europe,Carol Davis,14,458.77,6422.78
+2024-04-06,Monitor,Europe,Eva Brown,13,1058.06,13754.78
+2024-04-23,Mouse,North America,Alice Johnson,9,283.98,2555.82
+2024-04-23,Laptop,Asia,Carol Davis,14,415.36,5815.04
+2024-04-28,Laptop,Africa,Bob Smith,11,635.57,6991.27
+2024-04-15,Phone,Africa,Alice Johnson,17,519.42,8830.14
+2024-04-24,Headphones,Asia,Carol Davis,7,410.7,2874.9
+2024-04-28,Phone,South America,Bob Smith,14,1715.92,24022.88
+2024-04-03,Phone,Europe,Alice Johnson,1,429.95,429.95
+2024-04-26,Keyboard,South America,Alice Johnson,14,1660.79,23251.06
+2024-04-13,Headphones,North America,Alice Johnson,7,82.42,576.94
+2024-04-15,Keyboard,Africa,Alice Johnson,14,1159.07,16226.98
+2024-04-08,Phone,Asia,Carol Davis,4,1208.15,4832.6
+2024-04-19,Monitor,North America,Bob Smith,11,1946.28,21409.08
+2024-04-16,Headphones,Africa,Eva Brown,8,1711.28,13690.24
+2024-04-06,Mouse,Europe,Eva Brown,20,304.76,6095.2
+2024-04-19,Monitor,Asia,David Wilson,18,1055.59,19000.62
+2024-04-17,Tablet,North America,Carol Davis,8,986.12,7888.96
+2024-04-20,Phone,Europe,David Wilson,5,1682.17,8410.85
+2024-04-19,Mouse,Africa,Eva Brown,17,135.59,2305.03
+2024-04-18,Phone,South America,David Wilson,11,1366.78,15034.58
+2024-04-07,Keyboard,North America,Carol Davis,19,738.47,14030.93
+2024-04-20,Monitor,Europe,Bob Smith,9,1456.63,13109.67
+2024-04-03,Laptop,North America,Eva Brown,19,1851.43,35177.17
+2024-04-06,Mouse,Africa,Alice Johnson,19,125.19,2378.61
+2024-04-26,Phone,Europe,Eva Brown,16,1671.23,26739.68
+2024-05-12,Keyboard,Asia,David Wilson,3,1299.42,3898.26
+2024-05-26,Monitor,Africa,David Wilson,17,1907.52,32427.84
+2024-05-09,Laptop,Asia,Alice Johnson,8,406.95,3255.6
+2024-05-16,Monitor,South America,David Wilson,10,316.95,3169.5
+2024-05-10,Tablet,Europe,Carol Davis,17,1181.66,20088.22
+2024-05-18,Laptop,North America,Carol Davis,15,1400.34,21005.1
+2024-05-03,Monitor,Europe,Carol Davis,6,1899.62,11397.72
+2024-05-13,Keyboard,Asia,Alice Johnson,15,891.74,13376.1
+2024-05-01,Mouse,Africa,Alice Johnson,6,151.19,907.14
+2024-05-13,Laptop,Asia,David Wilson,2,1918.92,3837.84
+2024-05-14,Phone,South America,Eva Brown,14,1692.39,23693.46
+2024-05-07,Headphones,North America,Alice Johnson,2,1068.82,2137.64
+2024-05-10,Laptop,Africa,Carol Davis,16,1610.19,25763.04
+2024-05-28,Tablet,Europe,Eva Brown,18,1282.04,23076.72
+2024-05-04,Tablet,South America,Carol Davis,9,1236.03,11124.27
+2024-05-05,Monitor,Asia,Carol Davis,12,336.82,4041.84
+2024-05-11,Mouse,South America,Carol Davis,5,256.5,1282.5
+2024-05-16,Tablet,Europe,David Wilson,5,532.01,2660.05
+2024-05-03,Monitor,Europe,Eva Brown,1,1691.47,1691.47
+2024-05-19,Mouse,Asia,Alice Johnson,20,1020.25,20405.0
+2024-05-03,Tablet,Africa,Carol Davis,8,1824.34,14594.72
+2024-05-17,Keyboard,Asia,David Wilson,4,1664.91,6659.64
+2024-05-06,Headphones,Europe,David Wilson,14,1953.67,27351.38
+2024-05-16,Headphones,North America,Alice Johnson,13,633.31,8233.03
+2024-05-20,Laptop,Europe,Alice Johnson,20,892.99,17859.8
+2024-05-14,Mouse,Asia,Bob Smith,1,1674.95,1674.95
+2024-05-13,Mouse,South America,Bob Smith,6,1246.58,7479.48
+2024-05-20,Phone,North America,Eva Brown,15,607.92,9118.8
+2024-05-26,Laptop,South America,Bob Smith,10,827.88,8278.8
+2024-05-18,Phone,South America,David Wilson,2,736.94,1473.88
+2024-05-11,Laptop,South America,Bob Smith,2,280.93,561.86
+2024-05-24,Laptop,North America,Alice Johnson,5,381.78,1908.9
+2024-05-19,Laptop,Asia,Carol Davis,8,442.59,3540.72
+2024-05-04,Monitor,South America,Bob Smith,8,846.63,6773.04
+2024-05-26,Monitor,South America,David Wilson,15,126.77,1901.55
+2024-05-27,Tablet,South America,Alice Johnson,1,1729.62,1729.62
+2024-05-20,Headphones,Africa,Bob Smith,12,1296.4,15556.8
+2024-05-06,Tablet,Asia,Alice Johnson,6,616.54,3699.24
+2024-05-03,Phone,North America,Bob Smith,3,1192.53,3577.59
+2024-05-04,Mouse,Asia,Bob Smith,3,526.98,1580.94
+2024-05-09,Tablet,North America,Carol Davis,10,440.62,4406.2
+2024-05-15,Laptop,Africa,Alice Johnson,5,309.3,1546.5
+2024-05-14,Tablet,Africa,Alice Johnson,8,1654.4,13235.2
+2024-05-08,Headphones,Asia,David Wilson,11,584.4,6428.4
+2024-05-25,Headphones,Europe,Eva Brown,11,1739.86,19138.46
+2024-05-04,Headphones,Europe,Alice Johnson,11,1962.02,21582.22
+2024-05-19,Monitor,North America,Eva Brown,15,357.14,5357.1
+2024-05-03,Mouse,Europe,Alice Johnson,5,143.17,715.85
+2024-05-07,Mouse,Europe,Eva Brown,2,1158.34,2316.68
+2024-05-02,Mouse,Asia,Carol Davis,16,979.25,15668.0
+2024-05-26,Laptop,South America,Alice Johnson,8,639.61,5116.88
+2024-05-19,Headphones,Africa,Carol Davis,1,1400.19,1400.19
+2024-05-07,Laptop,South America,David Wilson,16,1470.29,23524.64
+2024-05-14,Headphones,South America,David Wilson,14,1529.31,21410.34
+2024-05-24,Phone,South America,Carol Davis,7,556.64,3896.48
+2024-05-25,Keyboard,Asia,Alice Johnson,13,1063.56,13826.28
+2024-05-10,Laptop,North America,David Wilson,10,1445.21,14452.1
+2024-05-26,Mouse,Europe,David Wilson,20,1255.32,25106.4
+2024-05-11,Headphones,South America,Carol Davis,15,784.97,11774.55
+2024-05-16,Keyboard,South America,Alice Johnson,11,1184.89,13033.79
+2024-05-14,Mouse,South America,Bob Smith,14,1136.22,15907.08
+2024-05-16,Mouse,Asia,Carol Davis,3,1888.4,5665.2
+2024-05-07,Mouse,South America,Bob Smith,18,872.54,15705.72
+2024-05-16,Monitor,North America,Bob Smith,16,139.94,2239.04
+2024-05-03,Keyboard,South America,Alice Johnson,15,1759.77,26396.55
+2024-05-25,Phone,South America,Alice Johnson,5,683.94,3419.7
+2024-05-23,Monitor,Asia,Eva Brown,4,310.7,1242.8
+2024-05-03,Keyboard,Africa,Eva Brown,3,432.93,1298.79
+2024-05-15,Laptop,Asia,Eva Brown,19,1256.41,23871.79
+2024-05-12,Headphones,Asia,David Wilson,20,1148.97,22979.4
+2024-05-16,Mouse,Europe,Alice Johnson,9,136.85,1231.65
+2024-05-16,Keyboard,Europe,Eva Brown,17,804.65,13679.05
+2024-05-25,Laptop,North America,Alice Johnson,14,1781.29,24938.06
+2024-05-05,Tablet,South America,Carol Davis,7,1731.65,12121.55
+2024-05-25,Laptop,Asia,Carol Davis,15,1716.51,25747.65
+2024-05-10,Monitor,Africa,Carol Davis,1,600.11,600.11
+2024-05-28,Phone,Asia,Bob Smith,15,789.54,11843.1
+2024-05-04,Keyboard,Asia,David Wilson,2,1963.77,3927.54
+2024-05-14,Monitor,Asia,David Wilson,9,446.96,4022.64
+2024-06-17,Keyboard,Asia,Bob Smith,1,704.86,704.86
+2024-06-28,Tablet,North America,Bob Smith,6,71.02,426.12
+2024-06-26,Phone,Europe,Carol Davis,15,1330.61,19959.15
+2024-06-21,Phone,North America,Alice Johnson,6,1510.43,9062.58
+2024-06-27,Headphones,Asia,Alice Johnson,8,70.56,564.48
+2024-06-20,Laptop,Africa,Carol Davis,18,816.78,14702.04
+2024-06-03,Laptop,North America,Carol Davis,16,786.93,12590.88
+2024-06-02,Laptop,North America,Alice Johnson,13,878.71,11423.23
+2024-06-03,Mouse,Europe,David Wilson,12,1480.91,17770.92
+2024-06-07,Tablet,North America,Alice Johnson,20,1828.27,36565.4
+2024-06-10,Laptop,Asia,Bob Smith,4,1137.0,4548.0
+2024-06-02,Keyboard,Europe,Carol Davis,6,606.07,3636.42
+2024-06-13,Tablet,Asia,Alice Johnson,6,101.67,610.02
+2024-06-18,Monitor,Asia,Carol Davis,17,1600.46,27207.82
+2024-06-25,Tablet,North America,Bob Smith,20,1971.81,39436.2
+2024-06-04,Mouse,North America,Eva Brown,10,364.24,3642.4
+2024-06-19,Mouse,Asia,Eva Brown,4,199.27,797.08
+2024-06-17,Tablet,South America,Carol Davis,8,846.55,6772.4
+2024-06-15,Laptop,Asia,Eva Brown,18,1786.22,32151.96
+2024-06-17,Phone,Africa,Bob Smith,11,1004.39,11048.29
+2024-06-06,Mouse,South America,Carol Davis,3,1285.13,3855.39
+2024-06-18,Mouse,Asia,Carol Davis,15,888.78,13331.7
+2024-06-09,Tablet,Asia,Carol Davis,3,980.12,2940.36
+2024-06-01,Monitor,North America,Bob Smith,20,1294.56,25891.2
+2024-06-22,Keyboard,Asia,David Wilson,20,1859.97,37199.4
+2024-06-06,Phone,Europe,Eva Brown,5,1034.32,5171.6
+2024-06-26,Monitor,Europe,David Wilson,11,400.96,4410.56
+2024-06-25,Headphones,South America,David Wilson,15,741.9,11128.5
+2024-06-09,Phone,North America,Carol Davis,10,1944.35,19443.5
+2024-06-21,Mouse,North America,Bob Smith,10,509.74,5097.4
+2024-06-12,Mouse,South America,Eva Brown,18,1642.04,29556.72
+2024-06-06,Laptop,Africa,Bob Smith,12,1197.79,14373.48
+2024-06-13,Keyboard,South America,Bob Smith,2,975.04,1950.08
+2024-06-28,Laptop,North America,Bob Smith,17,164.59,2798.03
+2024-06-28,Phone,Europe,Eva Brown,19,124.33,2362.27
+2024-06-24,Mouse,Africa,Alice Johnson,2,113.27,226.54
+2024-06-21,Laptop,Europe,Alice Johnson,5,383.97,1919.85
+2024-06-09,Tablet,North America,Eva Brown,1,1263.35,1263.35
+2024-06-17,Phone,Europe,Eva Brown,18,805.28,14495.04
+2024-06-17,Phone,Africa,Alice Johnson,10,848.21,8482.1
+2024-06-27,Headphones,Africa,Eva Brown,19,110.14,2092.66
+2024-06-15,Keyboard,Africa,David Wilson,14,561.11,7855.54
+2024-06-05,Phone,North America,Eva Brown,7,872.21,6105.47
+2024-06-07,Phone,Asia,David Wilson,14,904.03,12656.42
+2024-06-11,Tablet,Europe,Eva Brown,11,640.61,7046.71
+2024-06-06,Phone,Africa,David Wilson,16,66.18,1058.88
+2024-06-04,Monitor,North America,Bob Smith,3,1329.05,3987.15
+2024-06-04,Laptop,Asia,Eva Brown,11,503.04,5533.44
+2024-06-12,Mouse,Europe,Bob Smith,18,438.33,7889.94
+2024-06-27,Monitor,Europe,Bob Smith,12,1711.93,20543.16
+2024-06-13,Mouse,North America,Bob Smith,6,1670.99,10025.94
+2024-06-18,Mouse,South America,Alice Johnson,7,977.19,6840.33
+2024-06-23,Monitor,Asia,Eva Brown,1,267.59,267.59
+2024-06-15,Keyboard,South America,Carol Davis,18,153.48,2762.64
+2024-06-07,Mouse,Africa,David Wilson,13,947.22,12313.86
+2024-06-01,Phone,Europe,Alice Johnson,13,76.91,999.83
+2024-06-18,Monitor,Europe,Bob Smith,1,791.35,791.35
+2024-06-11,Monitor,South America,Bob Smith,3,398.64,1195.92
+2024-07-09,Keyboard,North America,David Wilson,8,137.49,1099.92
+2024-07-10,Headphones,Asia,Bob Smith,18,1110.7,19992.6
+2024-07-27,Tablet,Europe,Bob Smith,2,945.52,1891.04
+2024-07-03,Tablet,Europe,Alice Johnson,5,155.82,779.1
+2024-07-06,Mouse,Asia,David Wilson,8,484.44,3875.52
+2024-07-09,Monitor,Europe,Carol Davis,10,1167.88,11678.8
+2024-07-24,Keyboard,Asia,Alice Johnson,1,591.25,591.25
+2024-07-02,Keyboard,North America,Eva Brown,10,683.26,6832.6
+2024-07-28,Headphones,Africa,Eva Brown,1,1897.63,1897.63
+2024-07-02,Tablet,South America,Eva Brown,13,638.72,8303.36
+2024-07-06,Phone,Europe,Alice Johnson,14,1920.75,26890.5
+2024-07-04,Mouse,Europe,Carol Davis,6,889.73,5338.38
+2024-07-09,Keyboard,Europe,David Wilson,15,1598.8,23982.0
+2024-07-28,Tablet,Europe,Eva Brown,8,1506.68,12053.44
+2024-07-07,Phone,Asia,Alice Johnson,16,1769.86,28317.76
+2024-07-08,Laptop,Africa,Bob Smith,7,1911.74,13382.18
+2024-07-22,Tablet,South America,Carol Davis,8,666.6,5332.8
+2024-07-04,Tablet,Europe,David Wilson,16,876.63,14026.08
+2024-07-28,Monitor,South America,Carol Davis,7,1563.33,10943.31
+2024-07-19,Monitor,Asia,Carol Davis,20,1004.7,20094.0
+2024-07-14,Tablet,Europe,Carol Davis,11,1887.4,20761.4
+2024-07-16,Monitor,Asia,David Wilson,20,163.84,3276.8
+2024-07-05,Monitor,Asia,David Wilson,6,1171.58,7029.48
+2024-07-24,Monitor,North America,David Wilson,15,669.33,10039.95
+2024-07-03,Laptop,Europe,Alice Johnson,17,705.53,11994.01
+2024-07-11,Laptop,Europe,Eva Brown,10,1511.51,15115.1
+2024-07-22,Tablet,North America,Bob Smith,16,1819.3,29108.8
+2024-07-22,Monitor,Europe,David Wilson,6,1901.48,11408.88
+2024-07-01,Phone,Europe,Carol Davis,19,871.34,16555.46
+2024-07-08,Headphones,North America,Alice Johnson,19,1303.1,24758.9
+2024-07-23,Monitor,Asia,Eva Brown,9,289.26,2603.34
+2024-07-08,Tablet,Europe,Carol Davis,13,1950.51,25356.63
+2024-07-14,Laptop,North America,Eva Brown,7,1184.21,8289.47
+2024-07-10,Headphones,Europe,David Wilson,10,646.49,6464.9
+2024-07-24,Phone,Europe,Carol Davis,16,1311.88,20990.08
+2024-07-28,Phone,Africa,Carol Davis,9,257.35,2316.15
+2024-07-21,Phone,Asia,Carol Davis,7,1740.29,12182.03
+2024-07-26,Mouse,North America,Carol Davis,7,1120.25,7841.75
+2024-07-16,Laptop,Asia,Eva Brown,15,1324.34,19865.1
+2024-07-15,Monitor,Africa,Carol Davis,1,1951.6,1951.6
+2024-07-15,Headphones,Europe,David Wilson,7,823.53,5764.71
+2024-07-07,Laptop,Asia,David Wilson,1,666.56,666.56
+2024-07-12,Laptop,North America,Eva Brown,18,1282.03,23076.54
+2024-07-01,Keyboard,Europe,Bob Smith,12,1034.63,12415.56
+2024-07-03,Keyboard,North America,Alice Johnson,15,156.63,2349.45
+2024-07-20,Phone,South America,David Wilson,12,1628.24,19538.88
+2024-07-11,Headphones,Asia,Carol Davis,4,189.76,759.04
+2024-07-09,Keyboard,Africa,David Wilson,13,1319.35,17151.55
+2024-07-04,Tablet,North America,Eva Brown,1,1607.9,1607.9
+2024-07-23,Monitor,Asia,Alice Johnson,9,347.89,3131.01
+2024-07-13,Phone,Europe,Eva Brown,9,1514.61,13631.49
+2024-07-05,Monitor,North America,Carol Davis,19,1872.0,35568.0
+2024-07-27,Tablet,South America,Eva Brown,13,1513.77,19679.01
+2024-07-28,Monitor,South America,David Wilson,4,787.78,3151.12
+2024-07-03,Keyboard,Asia,Alice Johnson,1,1049.57,1049.57
+2024-07-10,Keyboard,North America,Carol Davis,2,1438.65,2877.3
+2024-07-16,Phone,Asia,Alice Johnson,18,1603.56,28864.08
+2024-07-19,Monitor,North America,David Wilson,12,1998.44,23981.28
+2024-07-03,Tablet,South America,Eva Brown,6,261.65,1569.9
+2024-07-25,Phone,Africa,Eva Brown,5,102.99,514.95
+2024-07-10,Monitor,Asia,Bob Smith,8,1360.98,10887.84
+2024-08-10,Headphones,Africa,Bob Smith,19,925.88,17591.72
+2024-08-04,Laptop,North America,Eva Brown,7,1820.31,12742.17
+2024-08-03,Phone,Asia,David Wilson,13,1539.81,20017.53
+2024-08-02,Monitor,South America,David Wilson,5,1647.77,8238.85
+2024-08-09,Headphones,North America,Bob Smith,8,431.42,3451.36
+2024-08-08,Mouse,Asia,David Wilson,10,788.83,7888.3
+2024-08-25,Keyboard,South America,Eva Brown,18,389.96,7019.28
+2024-08-02,Mouse,Asia,Alice Johnson,5,1327.05,6635.25
+2024-08-03,Keyboard,Africa,Bob Smith,14,1274.03,17836.42
+2024-08-25,Headphones,South America,Alice Johnson,9,362.77,3264.93
+2024-08-08,Phone,North America,Eva Brown,7,1950.82,13655.74
+2024-08-04,Mouse,North America,Bob Smith,12,1134.71,13616.52
+2024-08-15,Mouse,South America,David Wilson,3,241.92,725.76
+2024-08-01,Phone,Europe,Eva Brown,17,702.29,11938.93
+2024-08-22,Keyboard,Asia,Alice Johnson,12,567.37,6808.44
+2024-08-28,Mouse,South America,Bob Smith,6,371.86,2231.16
+2024-08-26,Phone,Europe,David Wilson,12,1277.54,15330.48
+2024-08-09,Laptop,Europe,Carol Davis,16,705.59,11289.44
+2024-08-18,Tablet,Africa,Alice Johnson,20,1182.39,23647.8
+2024-08-15,Monitor,North America,David Wilson,3,1954.75,5864.25
+2024-08-12,Monitor,South America,Carol Davis,8,1214.86,9718.88
+2024-08-09,Monitor,North America,David Wilson,12,299.43,3593.16
+2024-08-07,Tablet,Europe,Alice Johnson,4,1855.21,7420.84
+2024-08-01,Mouse,North America,Carol Davis,13,277.29,3604.77
+2024-08-03,Monitor,Europe,Carol Davis,6,484.37,2906.22
+2024-08-20,Laptop,Europe,Carol Davis,5,521.25,2606.25
+2024-08-05,Mouse,Asia,Carol Davis,12,671.02,8052.24
+2024-08-05,Monitor,South America,Carol Davis,3,1507.0,4521.0
+2024-08-09,Headphones,Europe,Alice Johnson,13,335.33,4359.29
+2024-08-10,Keyboard,North America,Bob Smith,20,413.65,8273.0
+2024-08-01,Laptop,South America,Eva Brown,18,1154.02,20772.36
+2024-08-16,Keyboard,South America,Bob Smith,19,987.95,18771.05
+2024-08-23,Laptop,Asia,Bob Smith,15,1151.11,17266.65
+2024-08-28,Keyboard,Asia,Alice Johnson,19,719.68,13673.92
+2024-08-18,Headphones,South America,Bob Smith,9,406.46,3658.14
+2024-08-12,Mouse,Asia,Bob Smith,7,959.89,6719.23
+2024-08-26,Monitor,South America,Eva Brown,4,1024.21,4096.84
+2024-08-25,Headphones,North America,Alice Johnson,2,149.25,298.5
+2024-08-08,Tablet,South America,Eva Brown,6,942.51,5655.06
+2024-08-06,Phone,North America,Carol Davis,4,705.09,2820.36
+2024-08-11,Keyboard,Europe,Bob Smith,2,1632.91,3265.82
+2024-08-03,Mouse,North America,David Wilson,19,1007.07,19134.33
+2024-08-06,Phone,Africa,Bob Smith,6,907.74,5446.44
+2024-08-12,Laptop,South America,David Wilson,4,1089.52,4358.08
+2024-08-05,Tablet,Asia,David Wilson,12,1975.1,23701.2
+2024-08-09,Phone,Europe,Carol Davis,6,1564.92,9389.52
+2024-08-24,Mouse,North America,Bob Smith,18,786.84,14163.12
+2024-08-06,Keyboard,Asia,Eva Brown,18,1486.27,26752.86
+2024-08-06,Mouse,Europe,Eva Brown,1,1015.46,1015.46
+2024-08-08,Headphones,Europe,Bob Smith,15,1633.47,24502.05
+2024-08-08,Tablet,South America,David Wilson,20,1875.69,37513.8
+2024-08-12,Phone,North America,Eva Brown,8,1377.48,11019.84
+2024-08-21,Monitor,Europe,David Wilson,15,702.79,10541.85
+2024-08-11,Tablet,Africa,Bob Smith,1,664.48,664.48
+2024-08-02,Tablet,Europe,Carol Davis,9,1667.04,15003.36
+2024-08-16,Headphones,Africa,Eva Brown,9,1645.65,14810.85
+2024-08-27,Mouse,Asia,Carol Davis,19,1427.79,27128.01
+2024-08-02,Phone,Africa,Carol Davis,17,818.41,13912.97
+2024-08-10,Phone,South America,Alice Johnson,18,959.6,17272.8
+2024-08-28,Laptop,South America,Alice Johnson,16,287.32,4597.12
+2024-08-19,Monitor,North America,Bob Smith,16,1703.78,27260.48
+2024-08-03,Headphones,North America,Alice Johnson,3,156.25,468.75
+2024-08-20,Phone,South America,Alice Johnson,3,117.73,353.19
+2024-08-25,Headphones,North America,Eva Brown,10,1539.21,15392.1
+2024-08-03,Tablet,Africa,Eva Brown,3,347.65,1042.95
+2024-08-23,Tablet,Africa,Carol Davis,1,368.81,368.81
+2024-08-23,Laptop,North America,Alice Johnson,16,588.84,9421.44
+2024-08-24,Keyboard,North America,David Wilson,20,1405.43,28108.6
+2024-08-09,Keyboard,Asia,Eva Brown,20,1796.81,35936.2
+2024-08-15,Keyboard,South America,Bob Smith,3,263.59,790.77
+2024-08-05,Headphones,North America,David Wilson,2,892.25,1784.5
+2024-08-07,Monitor,North America,Carol Davis,13,778.51,10120.63
+2024-09-20,Keyboard,Africa,Eva Brown,11,1297.28,14270.08
+2024-09-11,Headphones,North America,Eva Brown,16,1942.91,31086.56
+2024-09-21,Tablet,Europe,Bob Smith,3,1602.26,4806.78
+2024-09-26,Keyboard,Europe,Bob Smith,16,1315.88,21054.08
+2024-09-21,Headphones,Africa,David Wilson,17,1065.67,18116.39
+2024-09-08,Monitor,Europe,Carol Davis,18,682.41,12283.38
+2024-09-07,Headphones,Africa,Carol Davis,1,304.55,304.55
+2024-09-12,Phone,South America,Eva Brown,8,585.68,4685.44
+2024-09-07,Keyboard,Asia,Eva Brown,12,206.01,2472.12
+2024-09-14,Monitor,Africa,Carol Davis,14,92.38,1293.32
+2024-09-15,Tablet,Africa,Eva Brown,10,1731.65,17316.5
+2024-09-07,Phone,Europe,Carol Davis,8,1260.39,10083.12
+2024-09-16,Headphones,Africa,Bob Smith,14,403.32,5646.48
+2024-09-27,Keyboard,South America,Carol Davis,10,1989.56,19895.6
+2024-09-06,Tablet,Asia,David Wilson,17,1796.02,30532.34
+2024-09-17,Headphones,North America,Carol Davis,10,1870.05,18700.5
+2024-09-04,Keyboard,Europe,Carol Davis,2,1481.47,2962.94
+2024-09-24,Keyboard,Europe,David Wilson,18,1488.85,26799.3
+2024-09-21,Headphones,Europe,David Wilson,11,1867.52,20542.72
+2024-09-08,Laptop,Europe,Alice Johnson,3,1531.51,4594.53
+2024-09-06,Tablet,South America,Bob Smith,8,903.32,7226.56
+2024-09-11,Headphones,Europe,Eva Brown,15,1306.74,19601.1
+2024-09-24,Tablet,Africa,Alice Johnson,13,1717.61,22328.93
+2024-09-06,Phone,Africa,Alice Johnson,1,846.55,846.55
+2024-09-20,Tablet,Africa,Eva Brown,3,1940.02,5820.06
+2024-09-09,Mouse,North America,Bob Smith,1,1563.0,1563.0
+2024-09-27,Keyboard,South America,Alice Johnson,15,1362.76,20441.4
+2024-09-10,Laptop,Africa,Carol Davis,14,678.47,9498.58
+2024-09-11,Laptop,North America,Carol Davis,14,643.7,9011.8
+2024-09-21,Monitor,Asia,Eva Brown,5,1912.98,9564.9
+2024-09-05,Laptop,Europe,David Wilson,6,1718.13,10308.78
+2024-09-28,Tablet,South America,Alice Johnson,3,1756.76,5270.28
+2024-09-09,Phone,Africa,Bob Smith,11,1218.2,13400.2
+2024-09-03,Laptop,Africa,Bob Smith,3,1828.55,5485.65
+2024-09-24,Tablet,Asia,David Wilson,3,537.47,1612.41
+2024-09-22,Laptop,South America,Carol Davis,9,1833.1,16497.9
+2024-09-03,Laptop,Africa,David Wilson,13,186.86,2429.18
+2024-09-06,Laptop,Asia,Eva Brown,8,1988.94,15911.52
+2024-09-26,Tablet,Asia,Alice Johnson,16,486.33,7781.28
+2024-09-03,Mouse,Asia,Alice Johnson,4,1824.31,7297.24
+2024-09-16,Mouse,Africa,Bob Smith,7,489.46,3426.22
+2024-09-02,Laptop,Africa,David Wilson,15,1015.78,15236.7
+2024-09-24,Monitor,Africa,Bob Smith,16,1848.74,29579.84
+2024-09-12,Laptop,Europe,David Wilson,2,242.19,484.38
+2024-09-25,Headphones,Asia,Bob Smith,2,1516.3,3032.6
+2024-09-23,Laptop,South America,Eva Brown,15,1967.46,29511.9
+2024-09-16,Keyboard,North America,Carol Davis,16,1252.77,20044.32
+2024-09-22,Laptop,Europe,Alice Johnson,19,515.64,9797.16
+2024-09-27,Keyboard,North America,Bob Smith,1,499.25,499.25
+2024-09-21,Laptop,North America,David Wilson,13,1196.64,15556.32
+2024-09-08,Laptop,North America,Eva Brown,3,570.79,1712.37
+2024-09-27,Keyboard,Africa,Bob Smith,20,975.59,19511.8
+2024-09-20,Laptop,Europe,Eva Brown,15,1442.07,21631.05
+2024-09-22,Keyboard,Asia,Bob Smith,6,1450.86,8705.16
+2024-09-24,Monitor,Africa,Eva Brown,11,230.49,2535.39
+2024-09-03,Phone,North America,Carol Davis,12,1504.78,18057.36
+2024-09-25,Mouse,Africa,Bob Smith,13,1731.77,22513.01
+2024-09-01,Headphones,Europe,Carol Davis,10,1347.98,13479.8
+2024-09-19,Phone,Asia,David Wilson,9,794.38,7149.42
+2024-09-13,Monitor,North America,Bob Smith,4,1377.36,5509.44
+2024-09-15,Phone,North America,David Wilson,1,1178.09,1178.09
+2024-09-11,Phone,Europe,Eva Brown,17,1644.58,27957.86
+2024-09-27,Mouse,South America,Eva Brown,4,438.13,1752.52
+2024-09-22,Monitor,Asia,David Wilson,1,1375.35,1375.35
+2024-09-11,Keyboard,Europe,Alice Johnson,19,543.43,10325.17
+2024-09-05,Tablet,South America,Eva Brown,18,1414.43,25459.74
+2024-09-06,Mouse,Africa,Bob Smith,18,1901.06,34219.08
+2024-09-25,Phone,Africa,Alice Johnson,8,735.42,5883.36
+2024-09-11,Monitor,Europe,Alice Johnson,18,1481.09,26659.62
+2024-09-12,Tablet,South America,Eva Brown,19,1965.94,37352.86
+2024-09-17,Laptop,Africa,David Wilson,16,828.0,13248.0
+2024-09-11,Headphones,Asia,Alice Johnson,19,876.96,16662.24
+2024-09-21,Keyboard,Africa,Carol Davis,6,1864.29,11185.74
+2024-10-23,Keyboard,South America,Alice Johnson,16,308.08,4929.28
+2024-10-19,Laptop,South America,Alice Johnson,14,1923.45,26928.3
+2024-10-03,Mouse,Africa,David Wilson,20,677.05,13541.0
+2024-10-07,Tablet,Africa,Bob Smith,18,1356.28,24413.04
+2024-10-07,Monitor,North America,David Wilson,13,587.13,7632.69
+2024-10-27,Laptop,Asia,Carol Davis,1,739.6,739.6
+2024-10-20,Laptop,Europe,David Wilson,18,1021.77,18391.86
+2024-10-12,Tablet,South America,Bob Smith,6,318.36,1910.16
+2024-10-19,Keyboard,Africa,David Wilson,10,1854.78,18547.8
+2024-10-14,Monitor,Africa,Alice Johnson,4,1141.4,4565.6
+2024-10-10,Mouse,North America,Carol Davis,13,845.59,10992.67
+2024-10-19,Tablet,Asia,Alice Johnson,19,1128.97,21450.43
+2024-10-16,Monitor,South America,Carol Davis,15,1219.75,18296.25
+2024-10-05,Headphones,Asia,Carol Davis,14,1539.65,21555.1
+2024-10-07,Tablet,South America,Bob Smith,19,1160.98,22058.62
+2024-10-25,Tablet,Asia,Eva Brown,5,982.13,4910.65
+2024-10-28,Laptop,Europe,Alice Johnson,10,1004.34,10043.4
+2024-10-02,Keyboard,Africa,David Wilson,3,580.58,1741.74
+2024-10-28,Keyboard,Africa,Eva Brown,12,1576.16,18913.92
+2024-10-04,Headphones,Asia,David Wilson,1,1112.17,1112.17
+2024-10-14,Laptop,Europe,Eva Brown,1,1277.06,1277.06
+2024-10-26,Monitor,Europe,Carol Davis,3,1120.4,3361.2
+2024-10-20,Tablet,Africa,Alice Johnson,5,428.11,2140.55
+2024-10-27,Tablet,Africa,Carol Davis,7,605.53,4238.71
+2024-10-07,Phone,Europe,David Wilson,2,1648.28,3296.56
+2024-10-08,Headphones,Europe,Bob Smith,4,959.85,3839.4
+2024-10-27,Monitor,Africa,Bob Smith,8,925.83,7406.64
+2024-10-19,Headphones,Africa,Bob Smith,3,601.09,1803.27
+2024-10-14,Mouse,North America,Alice Johnson,5,1375.46,6877.3
+2024-10-17,Phone,North America,Bob Smith,8,1353.28,10826.24
+2024-10-09,Laptop,Africa,David Wilson,9,380.87,3427.83
+2024-10-16,Keyboard,Asia,Carol Davis,10,973.34,9733.4
+2024-10-16,Laptop,North America,Eva Brown,7,1652.79,11569.53
+2024-10-16,Laptop,South America,Bob Smith,6,1663.14,9978.84
+2024-10-20,Mouse,Africa,Eva Brown,19,1024.63,19467.97
+2024-10-08,Keyboard,South America,David Wilson,16,222.81,3564.96
+2024-10-09,Phone,Africa,Carol Davis,19,172.15,3270.85
+2024-10-24,Phone,North America,Alice Johnson,8,134.07,1072.56
+2024-10-25,Laptop,Africa,David Wilson,6,797.52,4785.12
+2024-10-16,Keyboard,Asia,Eva Brown,20,1257.02,25140.4
+2024-10-28,Tablet,Africa,Bob Smith,17,1215.76,20667.92
+2024-10-03,Laptop,North America,Carol Davis,5,556.15,2780.75
+2024-10-19,Phone,North America,Eva Brown,12,1224.87,14698.44
+2024-10-11,Monitor,North America,Alice Johnson,20,1410.48,28209.6
+2024-10-18,Tablet,Europe,Carol Davis,2,1191.74,2383.48
+2024-10-22,Keyboard,Europe,Carol Davis,7,1927.15,13490.05
+2024-10-14,Tablet,Africa,Eva Brown,9,979.09,8811.81
+2024-10-24,Laptop,North America,Carol Davis,18,502.7,9048.6
+2024-10-24,Monitor,South America,Carol Davis,6,1985.1,11910.6
+2024-10-11,Mouse,North America,David Wilson,2,1663.2,3326.4
+2024-10-23,Headphones,South America,David Wilson,8,92.35,738.8
+2024-10-20,Tablet,Europe,Eva Brown,9,1730.12,15571.08
+2024-10-18,Laptop,South America,Bob Smith,12,1730.53,20766.36
+2024-10-23,Tablet,North America,Carol Davis,6,1348.95,8093.7
+2024-10-13,Keyboard,Asia,Carol Davis,12,653.51,7842.12
+2024-10-19,Laptop,North America,David Wilson,10,592.71,5927.1
+2024-10-24,Monitor,Africa,David Wilson,7,1879.4,13155.8
+2024-10-02,Headphones,Europe,David Wilson,14,1764.72,24706.08
+2024-10-16,Laptop,Europe,Eva Brown,5,1059.06,5295.3
+2024-10-11,Monitor,Europe,Carol Davis,8,1079.81,8638.48
+2024-10-21,Headphones,North America,Bob Smith,8,1405.35,11242.8
+2024-11-08,Mouse,Asia,David Wilson,1,1009.24,1009.24
+2024-11-22,Headphones,Asia,Alice Johnson,5,1940.68,9703.4
+2024-11-13,Headphones,Africa,Alice Johnson,7,369.18,2584.26
+2024-11-06,Headphones,North America,Eva Brown,4,469.29,1877.16
+2024-11-06,Mouse,North America,Bob Smith,7,315.47,2208.29
+2024-11-17,Headphones,Europe,David Wilson,16,1676.39,26822.24
+2024-11-20,Monitor,Asia,Carol Davis,20,229.73,4594.6
+2024-11-06,Headphones,Africa,David Wilson,12,952.9,11434.8
+2024-11-04,Headphones,South America,Bob Smith,11,220.71,2427.81
+2024-11-01,Keyboard,South America,Alice Johnson,5,940.93,4704.65
+2024-11-19,Phone,South America,Carol Davis,3,1463.96,4391.88
+2024-11-13,Phone,South America,Eva Brown,7,1378.62,9650.34
+2024-11-18,Laptop,Europe,Eva Brown,17,542.39,9220.63
+2024-11-17,Headphones,Europe,Bob Smith,17,320.46,5447.82
+2024-11-11,Tablet,North America,Eva Brown,18,477.53,8595.54
+2024-11-01,Tablet,South America,Carol Davis,9,143.99,1295.91
+2024-11-25,Laptop,Europe,David Wilson,7,545.68,3819.76
+2024-11-10,Mouse,North America,Alice Johnson,20,1284.69,25693.8
+2024-11-15,Monitor,Europe,Eva Brown,2,1178.87,2357.74
+2024-11-07,Mouse,Africa,Eva Brown,1,1855.44,1855.44
+2024-11-25,Phone,South America,Bob Smith,11,1423.39,15657.29
+2024-11-16,Phone,South America,Eva Brown,19,759.85,14437.15
+2024-11-12,Laptop,Africa,Carol Davis,1,1505.84,1505.84
+2024-11-15,Monitor,Asia,Alice Johnson,11,428.89,4717.79
+2024-11-16,Headphones,North America,David Wilson,15,259.56,3893.4
+2024-11-24,Headphones,North America,Carol Davis,2,1259.29,2518.58
+2024-11-03,Tablet,Asia,Eva Brown,2,1150.23,2300.46
+2024-11-28,Tablet,Africa,Bob Smith,17,951.75,16179.75
+2024-11-17,Tablet,Asia,Eva Brown,5,920.68,4603.4
+2024-11-16,Keyboard,Asia,Bob Smith,7,1827.37,12791.59
+2024-11-05,Headphones,Asia,Alice Johnson,11,1885.13,20736.43
+2024-11-17,Laptop,Asia,Bob Smith,14,367.19,5140.66
+2024-11-12,Tablet,South America,Eva Brown,7,1010.28,7071.96
+2024-11-08,Keyboard,South America,Alice Johnson,10,540.75,5407.5
+2024-11-14,Tablet,Africa,Alice Johnson,13,72.2,938.6
+2024-11-06,Tablet,Asia,Alice Johnson,20,1025.16,20503.2
+2024-11-13,Headphones,South America,Alice Johnson,11,285.58,3141.38
+2024-11-13,Keyboard,Africa,David Wilson,13,340.21,4422.73
+2024-11-08,Keyboard,Asia,Eva Brown,11,1251.79,13769.69
+2024-11-23,Laptop,Africa,Bob Smith,18,216.83,3902.94
+2024-11-20,Tablet,Africa,Alice Johnson,19,1261.78,23973.82
+2024-11-21,Keyboard,Asia,Eva Brown,9,592.06,5328.54
+2024-11-22,Phone,North America,Bob Smith,2,1356.58,2713.16
+2024-11-10,Phone,Europe,David Wilson,10,888.01,8880.1
+2024-11-19,Phone,Asia,Carol Davis,6,1446.48,8678.88
+2024-11-05,Keyboard,South America,Eva Brown,18,505.75,9103.5
+2024-11-15,Keyboard,South America,Carol Davis,12,1053.85,12646.2
+2024-11-13,Laptop,Africa,David Wilson,11,235.34,2588.74
+2024-11-17,Headphones,Africa,David Wilson,19,1571.05,29849.95
+2024-11-24,Keyboard,South America,David Wilson,17,135.1,2296.7
+2024-11-01,Laptop,South America,Carol Davis,15,302.05,4530.75
+2024-12-04,Phone,Africa,Bob Smith,20,1558.39,31167.8
+2024-12-28,Monitor,North America,Alice Johnson,18,371.69,6690.42
+2024-12-02,Tablet,North America,David Wilson,7,543.43,3804.01
+2024-12-22,Keyboard,Africa,Bob Smith,19,1315.77,24999.63
+2024-12-05,Mouse,North America,Bob Smith,5,78.69,393.45
+2024-12-28,Mouse,Africa,Bob Smith,7,262.81,1839.67
+2024-12-04,Headphones,Africa,Bob Smith,14,1634.9,22888.6
+2024-12-22,Phone,Europe,David Wilson,6,1593.63,9561.78
+2024-12-28,Tablet,Asia,Carol Davis,12,1806.76,21681.12
+2024-12-18,Keyboard,Europe,Carol Davis,1,1735.68,1735.68
+2024-12-12,Laptop,South America,Bob Smith,4,1840.72,7362.88
+2024-12-08,Monitor,North America,Eva Brown,7,436.26,3053.82
+2024-12-07,Laptop,Asia,Bob Smith,5,1838.77,9193.85
+2024-12-23,Mouse,Europe,Bob Smith,17,593.74,10093.58
+2024-12-10,Laptop,North America,David Wilson,2,425.63,851.26
+2024-12-03,Phone,Asia,Alice Johnson,7,858.9,6012.3
+2024-12-01,Monitor,Europe,David Wilson,2,594.33,1188.66
+2024-12-15,Keyboard,North America,Carol Davis,11,792.83,8721.13
+2024-12-14,Monitor,Asia,David Wilson,11,1088.51,11973.61
+2024-12-04,Phone,North America,David Wilson,18,1819.55,32751.9
+2024-12-23,Headphones,South America,Carol Davis,19,1999.43,37989.17
+2024-12-12,Tablet,Europe,Carol Davis,1,1107.51,1107.51
+2024-12-26,Phone,Africa,Bob Smith,4,1045.25,4181.0
+2024-12-26,Phone,Europe,David Wilson,4,1011.56,4046.24
+2024-12-24,Keyboard,South America,Carol Davis,9,1421.92,12797.28
+2024-12-14,Phone,North America,Alice Johnson,6,392.7,2356.2
+2024-12-18,Phone,Asia,David Wilson,2,1248.12,2496.24
+2024-12-08,Tablet,Africa,Carol Davis,10,128.73,1287.3
+2024-12-01,Monitor,South America,Eva Brown,9,226.11,2034.99
+2024-12-01,Mouse,Africa,Carol Davis,20,1728.51,34570.2
+2024-12-22,Mouse,Africa,Eva Brown,7,981.38,6869.66
+2024-12-11,Monitor,Asia,Bob Smith,8,1741.48,13931.84
+2024-12-16,Monitor,Asia,Carol Davis,17,778.13,13228.21
+2024-12-06,Monitor,Asia,Eva Brown,20,838.28,16765.6
+2024-12-04,Tablet,Asia,David Wilson,4,1995.01,7980.04
+2024-12-26,Phone,South America,Carol Davis,1,310.67,310.67
+2024-12-19,Monitor,North America,Eva Brown,11,1707.47,18782.17
+2024-12-15,Keyboard,North America,Alice Johnson,8,603.93,4831.44
+2024-12-20,Monitor,Asia,Carol Davis,18,1113.97,20051.46
+2024-12-02,Monitor,Europe,Carol Davis,2,1076.05,2152.1
+2024-12-02,Mouse,Africa,Eva Brown,16,1603.53,25656.48
+2024-12-21,Phone,South America,David Wilson,8,170.35,1362.8
+2024-12-06,Monitor,Asia,Eva Brown,14,1143.98,16015.72
+2024-12-26,Phone,Asia,Carol Davis,11,1293.54,14228.94
+2024-12-27,Keyboard,Asia,David Wilson,12,820.04,9840.48
+2024-12-02,Tablet,South America,Alice Johnson,13,453.93,5901.09
+2024-12-07,Headphones,South America,Eva Brown,7,56.88,398.16
+2024-12-15,Laptop,Asia,David Wilson,13,214.3,2785.9
+2024-12-17,Tablet,Europe,Carol Davis,20,829.62,16592.4
+2024-12-24,Keyboard,Europe,Bob Smith,17,229.47,3900.99
+2024-12-13,Headphones,North America,Bob Smith,2,1745.78,3491.56
+2024-12-04,Keyboard,Europe,Eva Brown,12,468.2,5618.4
+2024-12-27,Keyboard,North America,David Wilson,11,1646.01,18106.11
+2024-12-14,Tablet,South America,Carol Davis,14,1268.7,17761.8
+2024-12-03,Laptop,Africa,Carol Davis,1,445.1,445.1
+2024-12-08,Laptop,Africa,David Wilson,17,1327.69,22570.73
+2024-12-19,Phone,Africa,Eva Brown,9,567.72,5109.48
+2024-12-02,Laptop,Asia,Bob Smith,6,1478.92,8873.52
+2024-12-23,Laptop,Africa,Alice Johnson,1,273.97,273.97
+2024-12-15,Monitor,North America,Eva Brown,10,578.07,5780.7
+2024-12-08,Monitor,Africa,Carol Davis,12,1269.68,15236.16
+2024-12-18,Mouse,Europe,David Wilson,16,1062.22,16995.52
+2024-12-12,Tablet,South America,Bob Smith,4,1469.21,5876.84
+2024-12-10,Headphones,Europe,Alice Johnson,13,1627.53,21157.89
+2024-12-18,Keyboard,South America,Eva Brown,2,1506.01,3012.02
+2024-12-01,Tablet,Africa,Alice Johnson,12,1900.24,22802.88
+2024-12-08,Keyboard,Asia,Carol Davis,19,337.05,6403.95
+2024-12-05,Phone,Africa,Eva Brown,8,446.73,3573.84
+2024-12-23,Mouse,North America,Alice Johnson,16,1307.76,20924.16
+2024-12-11,Mouse,South America,David Wilson,4,1066.44,4265.76
+2024-12-13,Monitor,North America,Eva Brown,18,732.68,13188.24
+2024-12-27,Headphones,Africa,Carol Davis,3,445.12,1335.36
+2024-12-19,Headphones,Europe,David Wilson,12,1071.23,12854.76
+2024-12-26,Laptop,South America,Alice Johnson,9,775.14,6976.26
+2024-12-27,Monitor,Europe,David Wilson,16,901.23,14419.68
+2024-12-25,Phone,South America,Eva Brown,15,1186.65,17799.75
+2024-12-19,Laptop,North America,Eva Brown,19,331.38,6296.22
+2024-12-28,Phone,Asia,Eva Brown,9,316.64,2849.76
+2024-12-18,Keyboard,North America,Carol Davis,12,471.0,5652.0
+2024-12-04,Laptop,Asia,Alice Johnson,13,1943.34,25263.42
+2024-12-11,Mouse,Asia,Carol Davis,13,495.06,6435.78
+2024-12-17,Mouse,Europe,Bob Smith,3,295.08,885.24
+2024-12-25,Keyboard,North America,Alice Johnson,2,1934.31,3868.62
+2024-12-08,Keyboard,Europe,Eva Brown,19,1642.04,31198.76
+2024-12-12,Mouse,South America,Alice Johnson,17,618.18,10509.06
+2024-12-04,Monitor,Asia,Bob Smith,3,1588.75,4766.25
+2024-12-18,Mouse,Asia,Eva Brown,17,1035.24,17599.08
+2024-12-21,Laptop,Asia,Bob Smith,7,1562.13,10934.91
+2024-12-06,Tablet,Africa,Alice Johnson,13,742.25,9649.25
+2024-12-08,Tablet,South America,Eva Brown,14,1623.74,22732.36
+2024-12-09,Keyboard,South America,Eva Brown,19,84.64,1608.16
+2024-12-02,Headphones,Europe,Alice Johnson,3,1391.1,4173.3
+2024-12-17,Headphones,Asia,David Wilson,7,1081.06,7567.42
+2024-12-13,Monitor,South America,Alice Johnson,5,1085.92,5429.6
+2024-12-19,Mouse,Europe,Carol Davis,5,472.19,2360.95
+2024-12-09,Keyboard,Asia,Bob Smith,12,1634.59,19615.08
+2024-12-09,Keyboard,Europe,Eva Brown,12,1887.9,22654.8
+2024-12-16,Tablet,North America,David Wilson,15,1204.32,18064.8
+2024-12-07,Phone,Africa,David Wilson,6,382.19,2293.14

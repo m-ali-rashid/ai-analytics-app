@@ -1,0 +1,35 @@
+{
+  "name": "ai-analytics-app",
+  "version": "1.0.0",
+  "description": "An AI-powered web app for uploading Excel sheets and generating analytics and charts.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "chart.js": "^4.4.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.294.0",
+    "next": "latest",
+    "react": "latest",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "latest",
+    "tailwindcss": "^3.3.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "24.8.1",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "latest",
+    "postcss": "^8.4.31",
+    "typescript": "^5.0.0"
+  },
+  "license": "MIT"
+}
