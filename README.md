@@ -234,14 +234,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [API Reference](docs/api.md)
 - [Troubleshooting Guide](docs/troubleshooting.md)
 
-### Community
-- [GitHub Issues](https://github.com/your-repo/issues)
-- [Discussions](https://github.com/your-repo/discussions)
-- [Discord Community](https://discord.gg/your-server)
-
-### Contact
-- Email: support@ai-analytics-workspace.com
-- Twitter: [@AIAnalyticsApp](https://twitter.com/AIAnalyticsApp)
+### Sample Excel sheet to upload
+- [sample_employee_data.xlsx](https://github.com/user-attachments/files/23012268/sample_employee_data.xlsx)
+- [sample_financial_data.xlsx](https://github.com/user-attachments/files/23012267/sample_financial_data.xlsx)
+- [sample_sales_data.xlsx](https://github.com/user-attachments/files/23012266/sample_sales_data.xlsx)
 
 ---
 
